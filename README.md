@@ -51,6 +51,9 @@ Fokus utama model ini adalah **Recall** yang tinggi untuk kelas Fraud, meminimal
 ├── requirements.txt              # Daftar library yang dibutuhkan
 └── README.md                     # Dokumentasi proyek
 
+```
+---
+
 ## ⚙️ Instalasi dan Penggunaan
 Ikuti langkah berikut untuk menjalankan aplikasi di komputer lokal Anda:
 
