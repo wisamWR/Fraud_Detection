@@ -87,7 +87,7 @@ Jalankan perintah install:
 Bash
 
 pip install -r requirements.txt
-3. Latih Model (Jika file .pkl belum ada)
+3. Latih Model (Jika file .pkl belum tersedia)
 Jalankan Jupyter Notebook analysis_model.ipynb untuk memproses data, melatih model, dan menghasilkan file fraud_detection_pipeline.pkl. Pastikan file AIML Dataset.csv berada di folder yang sama.
 
 4. Jalankan Aplikasi
